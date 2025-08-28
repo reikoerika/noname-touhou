@@ -1,0 +1,9 @@
+extension["东方乱斗谈"]={
+	intro:"",
+	author:"无名玩家",
+	netdisk:"",
+	forum:"",
+	version:"1.0",
+	files:["info.json","README.md","LICENSE","info.json","LICENSE","README.md"],
+	size:"36KB"
+};
